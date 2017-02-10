@@ -1,4 +1,4 @@
 # portfolio
 Portfolio for m152
 
-[joelklingler.github.io/portfolio](https://joelklingler.github.io/portfolio)
+[https://img.shields.io/badge/GitHub%20pages-built-green.svg](https://joelklingler.github.io/portfolio)
