@@ -1,2 +1,4 @@
 # portfolio
-Portfolio for m152 built with [Bulma](https://github.com/jgthms/bulma).
+Portfolio ideas for m152.
+
+[Bulma](https://github.com/jgthms/bulma).
